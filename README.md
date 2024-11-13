@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Galliath
+- prénom : Anaëlle
+- URL Netlify : https://fantastic-khapse-a006ad.netlify.app/
 
 # Travail
 
